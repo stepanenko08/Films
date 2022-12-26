@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+    box-sizing: border-box;
+}
+
+.titles{
+    text-align: center;
+    margin: 50px 0 0 0;
+}
+
+.titles h1{
+    font-weight: 500;
+    font-size: 72px;
+    padding: 0 0 24px 0;
+}
+
+.titles p{
+    font-size: 24px;
+    color: #666666;
+}
+
+.conteiner{
+    width: 1060px;
+    margin: 0 auto;
+}
+
+.col-50{
+    width: 50%;
+    float: left;
+}
+
+.photo{
+    float: right;
+}
